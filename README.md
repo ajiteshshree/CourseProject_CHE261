@@ -1,2 +1,2 @@
 # Course Project_CHE261
-This repository contains the work done in making a virtual company for making chemical compounds in an industrial level.
+This repository contains the work done in creating a virtual company for making chemical compounds at an industrial level.
